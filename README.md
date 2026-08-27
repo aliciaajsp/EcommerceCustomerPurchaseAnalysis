@@ -202,6 +202,7 @@ ecommerce-customer-purchase-analysis/
 │   └── average_customer_spending_country.png
 │
 ├── reports/
-│   └── project_report.pdf
+│   └── project_report.pdf 
+        [View Project Report](reports/project_report.pdf)
 │
 └── README.md
