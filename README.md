@@ -180,6 +180,7 @@ Records with missing CustomerID were retained because they still contain useful 
 
 ## Project Structure
 
+[View Project Report](reports/project_report.pdf)
 ```text
 ecommerce-customer-purchase-analysis/
 │
@@ -203,6 +204,5 @@ ecommerce-customer-purchase-analysis/
 │
 ├── reports/
 │   └── project_report.pdf 
-        [View Project Report](reports/project_report.pdf)
 │
 └── README.md
