@@ -1,6 +1,6 @@
 # Data
 
-This project uses an e-commerce transaction dataset sourced from **Kaggle**.
+This project uses an e-commerce transaction dataset sourced from Kaggle.
 
 The original dataset is not included in this repository. The dataset was used locally for data cleaning, validation, and exploratory analysis.
 
@@ -8,7 +8,7 @@ The dataset contains e-commerce transaction records covering the period from **1
 
 ## Source
 
-- Kaggle — E-commerce Transaction Dataset
+- [Kaggle — E-commerce Dataset](https://www.kaggle.com/datasets/aliessamali/ecommerce)
 
 For details on data cleaning and preparation, please refer to:
 
